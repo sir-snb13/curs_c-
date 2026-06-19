@@ -1,0 +1,11 @@
+C:\Users\m.maximov\Desktop\c#\TypingTrainer\TypingTrainer.Core\bin\Release\net10.0\TypingTrainer.Core.deps.json
+C:\Users\m.maximov\Desktop\c#\TypingTrainer\TypingTrainer.Core\bin\Release\net10.0\TypingTrainer.Core.dll
+C:\Users\m.maximov\Desktop\c#\TypingTrainer\TypingTrainer.Core\bin\Release\net10.0\TypingTrainer.Core.pdb
+C:\Users\m.maximov\Desktop\c#\TypingTrainer\TypingTrainer.Core\obj\Release\net10.0\TypingTrainer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.maximov\Desktop\c#\TypingTrainer\TypingTrainer.Core\obj\Release\net10.0\TypingTrainer.Core.AssemblyInfoInputs.cache
+C:\Users\m.maximov\Desktop\c#\TypingTrainer\TypingTrainer.Core\obj\Release\net10.0\TypingTrainer.Core.AssemblyInfo.cs
+C:\Users\m.maximov\Desktop\c#\TypingTrainer\TypingTrainer.Core\obj\Release\net10.0\TypingTrainer.Core.csproj.CoreCompileInputs.cache
+C:\Users\m.maximov\Desktop\c#\TypingTrainer\TypingTrainer.Core\obj\Release\net10.0\TypingTrainer.Core.dll
+C:\Users\m.maximov\Desktop\c#\TypingTrainer\TypingTrainer.Core\obj\Release\net10.0\refint\TypingTrainer.Core.dll
+C:\Users\m.maximov\Desktop\c#\TypingTrainer\TypingTrainer.Core\obj\Release\net10.0\TypingTrainer.Core.pdb
+C:\Users\m.maximov\Desktop\c#\TypingTrainer\TypingTrainer.Core\obj\Release\net10.0\ref\TypingTrainer.Core.dll

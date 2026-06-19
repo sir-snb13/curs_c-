@@ -1,0 +1,74 @@
+[
+  {
+    "Date": "2026-06-14T22:18:01.7613329+03:00",
+    "DictionaryName": "Простые слова",
+    "SourceText": "папа",
+    "DurationSeconds": 1,
+    "CharactersPerMinute": 180.40815541080138,
+    "ErrorsCount": 4,
+    "AccuracyPercent": 0
+  },
+  {
+    "Date": "2026-06-14T22:18:05.9325233+03:00",
+    "DictionaryName": "Простые слова",
+    "SourceText": "кот",
+    "DurationSeconds": 1,
+    "CharactersPerMinute": 160.992961656038,
+    "ErrorsCount": 0,
+    "AccuracyPercent": 100
+  },
+  {
+    "Date": "2026-06-14T22:18:27.5592292+03:00",
+    "DictionaryName": "Простые фразы",
+    "SourceText": "это простой текст для тренировки",
+    "DurationSeconds": 6,
+    "CharactersPerMinute": 302.98603627307796,
+    "ErrorsCount": 0,
+    "AccuracyPercent": 100
+  },
+  {
+    "Date": "2026-06-14T22:18:34.4953957+03:00",
+    "DictionaryName": "Простые фразы",
+    "SourceText": "как дела",
+    "DurationSeconds": 5,
+    "CharactersPerMinute": 98.57341878635627,
+    "ErrorsCount": 3,
+    "AccuracyPercent": 62.5
+  },
+  {
+    "Date": "2026-06-14T22:18:43.0182007+03:00",
+    "DictionaryName": "Простые фразы",
+    "SourceText": "это простой текст для тренировки",
+    "DurationSeconds": 6,
+    "CharactersPerMinute": 333.30153081226837,
+    "ErrorsCount": 0,
+    "AccuracyPercent": 100
+  },
+  {
+    "Date": "2026-06-14T22:26:33.3628568+03:00",
+    "DictionaryName": "Простые фразы",
+    "SourceText": "как дела",
+    "DurationSeconds": 4,
+    "CharactersPerMinute": 117.73572421230755,
+    "ErrorsCount": 2,
+    "AccuracyPercent": 75
+  },
+  {
+    "Date": "2026-06-19T17:31:41.3719283+03:00",
+    "DictionaryName": "Простые слова",
+    "SourceText": "мир",
+    "DurationSeconds": 1,
+    "CharactersPerMinute": 170.13176232403768,
+    "ErrorsCount": 0,
+    "AccuracyPercent": 100
+  },
+  {
+    "Date": "2026-06-19T17:32:14.3635878+03:00",
+    "DictionaryName": "Тексты для тренировки",
+    "SourceText": "короткие тренировки каждый день дают лучший результат чем редкие длинные занятия",
+    "DurationSeconds": 28,
+    "CharactersPerMinute": 171.7408502700582,
+    "ErrorsCount": 12,
+    "AccuracyPercent": 85
+  }
+]
